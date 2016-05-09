@@ -1,0 +1,22 @@
+{
+  "name": "SMADP",
+  "version": "0.0.1",
+  "description": "SMADP Plugin",
+  "cordova": {
+    "id": "cordova-plugin-smadp",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennywen/cordova-plugin-smadp.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Kenny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennywen/cordova-plugin-smadp/issues"
+  },
+  "homepage": "https://github.com/kennywen/cordova-plugin-smadp#readme"
+}
